@@ -155,6 +155,3 @@ print(f"{rgbgANSI(128,0,255)}{rgbANSI(255,255,0)}rgb background and foreground{c
 testANSI(c)
 RGBtestANSI(c)
 french(c)
-
-# for r in range(255):
-    # print(f"{rgbANSI(r,0,0)}██{c.ENDC}")
